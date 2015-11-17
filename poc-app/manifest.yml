@@ -1,6 +1,6 @@
 applications:
 - name: pocm-kapil  
-  memory: 128M 
+  memory: 512M 
   instances: 1
   hostname: pocm-kapil
   env:
