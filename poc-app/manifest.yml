@@ -1,6 +1,7 @@
 applications:
-- name: POC  
-  memory: 512M 
+- name: pocm-kapil  
+  memory: 128M 
   instances: 1
+  hostname: pocm-kapil
   env:
    JAVA_OPTS: -Djava.security.egd=file:///dev/urandom
